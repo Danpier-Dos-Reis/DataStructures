@@ -1,0 +1,14 @@
+C:\Users\Public\Practices\DataStructures\QueueProject\bin\Debug\net6.0\QueueProject.exe
+C:\Users\Public\Practices\DataStructures\QueueProject\bin\Debug\net6.0\QueueProject.deps.json
+C:\Users\Public\Practices\DataStructures\QueueProject\bin\Debug\net6.0\QueueProject.runtimeconfig.json
+C:\Users\Public\Practices\DataStructures\QueueProject\bin\Debug\net6.0\QueueProject.dll
+C:\Users\Public\Practices\DataStructures\QueueProject\bin\Debug\net6.0\QueueProject.pdb
+C:\Users\Public\Practices\DataStructures\QueueProject\obj\Debug\net6.0\QueueProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Practices\DataStructures\QueueProject\obj\Debug\net6.0\QueueProject.AssemblyInfoInputs.cache
+C:\Users\Public\Practices\DataStructures\QueueProject\obj\Debug\net6.0\QueueProject.AssemblyInfo.cs
+C:\Users\Public\Practices\DataStructures\QueueProject\obj\Debug\net6.0\QueueProject.csproj.CoreCompileInputs.cache
+C:\Users\Public\Practices\DataStructures\QueueProject\obj\Debug\net6.0\QueueProject.dll
+C:\Users\Public\Practices\DataStructures\QueueProject\obj\Debug\net6.0\refint\QueueProject.dll
+C:\Users\Public\Practices\DataStructures\QueueProject\obj\Debug\net6.0\QueueProject.pdb
+C:\Users\Public\Practices\DataStructures\QueueProject\obj\Debug\net6.0\QueueProject.genruntimeconfig.cache
+C:\Users\Public\Practices\DataStructures\QueueProject\obj\Debug\net6.0\ref\QueueProject.dll
